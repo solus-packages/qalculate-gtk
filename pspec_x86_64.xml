@@ -1,0 +1,40 @@
+<PISI>
+    <Source>
+        <Name>qalculate-gtk</Name>
+        <Packager>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Packager>
+        <License>GPL-2.0</License>
+        <PartOf>office.maths</PartOf>
+        <Summary xml:lang="en">Qalculate! is a multi-purpose desktop calculator.</Summary>
+        <Description xml:lang="en">Qalculate! is a multi-purpose desktop calculator.
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>qalculate-gtk</Name>
+        <Summary xml:lang="en">Qalculate! is a multi-purpose desktop calculator.</Summary>
+        <Description xml:lang="en">Qalculate! is a multi-purpose desktop calculator.
+</Description>
+        <PartOf>office.maths</PartOf>
+        <Files>
+            <Path fileType="executable">/usr/bin</Path>
+            <Path fileType="data">/usr/share/appdata/qalculate-gtk.appdata.xml</Path>
+            <Path fileType="data">/usr/share/applications/qalculate-gtk.desktop</Path>
+            <Path fileType="doc">/usr/share/doc</Path>
+            <Path fileType="localedata">/usr/share/locale</Path>
+            <Path fileType="data">/usr/share/pixmaps/qalculate.png</Path>
+            <Path fileType="data">/usr/share/qalculate-gtk</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2016-11-24</Date>
+            <Version>0.9.9</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Update>
+    </History>
+</PISI>
