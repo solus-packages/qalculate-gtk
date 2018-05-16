@@ -2,10 +2,10 @@
     <Source>
         <Name>qalculate-gtk</Name>
         <Packager>
-            <Name>Stig Svensson</Name>
-            <Email>stigarn@protonmail.ch</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
-        <License>GPL-2.0</License>
+        <License>GPL-2.0-or-later</License>
         <PartOf>office.maths</PartOf>
         <Summary xml:lang="en">Qalculate! is a multi-purpose desktop calculator.</Summary>
         <Description xml:lang="en">Qalculate! is a multi-purpose cross-platform desktop calculator. It is small and simple to use but with much power and versatility underneath. Features include customizable functions, units, arbitrary precision, plotting, and a user-friendly interface.
@@ -28,12 +28,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2018-03-10</Date>
-            <Version>2.2.1</Version>
+        <Update release="6">
+            <Date>2018-05-16</Date>
+            <Version>2.5.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Stig Svensson</Name>
-            <Email>stigarn@protonmail.ch</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
