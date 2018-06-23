@@ -1,8 +1,8 @@
 name       : qalculate-gtk
-version    : 2.5.0
-release    : 6
+version    : '2.6'
+release    : 7
 source     :
-    - https://github.com/Qalculate/qalculate-gtk/releases/download/v2.5.0/qalculate-gtk-2.5.0.tar.gz : 7c54339f6205e8ec7d7875fe1c5b716ee4befc03e5bb810948fe31773f8795db
+    - https://github.com/Qalculate/qalculate-gtk/releases/download/v2.6.0/qalculate-gtk-2.6.0.tar.gz : 4918e9c88f5e49c1766fee56cec4468ecad5758d6d2b6637ae5345d159fff55a
 license    : GPL-2.0-or-later
 component  : office.maths
 summary    : Qalculate! is a multi-purpose desktop calculator.

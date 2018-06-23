@@ -19,18 +19,51 @@
 </Description>
         <PartOf>office.maths</PartOf>
         <Files>
-            <Path fileType="executable">/usr/bin</Path>
+            <Path fileType="executable">/usr/bin/qalculate-gtk</Path>
             <Path fileType="data">/usr/share/appdata/qalculate-gtk.appdata.xml</Path>
             <Path fileType="data">/usr/share/applications/qalculate-gtk.desktop</Path>
-            <Path fileType="doc">/usr/share/doc</Path>
-            <Path fileType="localedata">/usr/share/locale</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/calculation-history.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/calculator-buttons.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/completion.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/convert-number-bases.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/convert-unit.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/edit-function-simplified.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/edit-function.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/edit-matrix.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/edit-unit.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/edit-variable.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/function-manager.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/gnuplot.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/import-csv.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/insert-function.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/mainwindow.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/plot-data.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/plot-settings.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/rpn-mode.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/store-variable.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/unit-manager.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/figures/variable-manager.png</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/index.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-definitions-functions.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-definitions-units.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-definitions-variables.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-expressions.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-functions.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-introduction.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-mode.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-plotting.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-units.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-user-interface.html</Path>
+            <Path fileType="doc">/usr/share/doc/qalculate-gtk/html/qalculate-variables.html</Path>
+            <Path fileType="localedata">/usr/share/locale/nl/LC_MESSAGES/qalculate-gtk.mo</Path>
+            <Path fileType="localedata">/usr/share/locale/sv/LC_MESSAGES/qalculate-gtk.mo</Path>
             <Path fileType="data">/usr/share/pixmaps/qalculate.png</Path>
         </Files>
     </Package>
     <History>
-        <Update release="6">
-            <Date>2018-05-16</Date>
-            <Version>2.5.0</Version>
+        <Update release="7">
+            <Date>2018-06-23</Date>
+            <Version>2.6</Version>
             <Comment>Packaging update</Comment>
             <Name>Joey Riches</Name>
             <Email>josephriches@gmail.com</Email>
